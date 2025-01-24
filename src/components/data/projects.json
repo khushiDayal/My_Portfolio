@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "Node Blog",
+    "imageSrc": "logo/blog.png",
+    "description": "This is a project is purley made with Ejs, Node.js, Express.js, MongoDB.",
+    "demo": "",
+    "source": "https://github.com/khushiDayal/nodeblog"
+  },
+  {
+    "key": 2,
+    "title": "Url Simplified",
+    "imageSrc": "logo/url.png",
+    "description": "This is a project made with Sevletkit framework and Pocketbase.",
+    "demo": "https://short.nishm.com/",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Form Validation",
+    "imageSrc": "logo/login.png",
+    "description": "This is a project made with Html, CSS, JavaScript.",
+    "demo": "form-validation-97.pages.dev/",
+    "source": "https://github.com/khushiDayal/Form-validation"
+  },
+  {
+    "key": 4,
+    "title": "Heart-Trail-Animation",
+    "imageSrc": "logo/heart.png",
+    "description": "This is a project made with Html, CSS, JavaScript.",
+    "demo": "heart-trail-animation.pages.dev/",
+    "source": "https://github.com/khushiDayal/Heart-Animation"
+  },
+  {
+    "key": 5,
+    "title": "To-Do List",
+    "imageSrc": "logo/todo.png",
+    "description": "This is a project made with Html, CSS, JavaScript.",
+    "demo": "https://dayal-todo-list.pages.dev/",
+    "source": "https://github.com/khushiDayal/To-Do-List"
+  }
+]
