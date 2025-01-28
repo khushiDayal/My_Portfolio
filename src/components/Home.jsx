@@ -11,7 +11,8 @@ const Home = () => {
       strings: ["Welcome to my profile", "My name is Khushi Dayal", "I am a Full Stack Developer", "Hire Me"],
       typeSpeed:50,
       backSpeed:50,
-      loop:true
+      loop:true,
+      showCursor: false
     }
 
     const typed = new Typed(typedRef.current, options)
