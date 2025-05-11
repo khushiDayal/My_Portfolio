@@ -1,6 +1,14 @@
 [
   {
     "key": 1,
+    "title": "Dayal Skincare Store",
+    "imageSrc": "logo/skincare.png",
+    "description": "An e-commerce platform built using the MERN stack for seamless skincare product browsing and purchasing.",
+    "demo": "skincarestore.pages.dev/",
+    "source": "https://github.com/khushiDayal/DayalSkincareStore"
+  },
+  {
+    "key": 2,
     "title": "Node Blog",
     "imageSrc": "logo/blog.png",
     "description": "This is a project is purley made with Ejs, Node.js, Express.js, MongoDB.",
@@ -8,7 +16,7 @@
     "source": "https://github.com/khushiDayal/nodeblog"
   },
   {
-    "key": 2,
+    "key": 3,
     "title": "Url Simplified",
     "imageSrc": "logo/url.png",
     "description": "This is a project made with Sevletkit framework and Pocketbase.",
@@ -16,7 +24,7 @@
     "source": "https://www.github.com"
   },
   {
-    "key": 3,
+    "key": 4,
     "title": "Form Validation",
     "imageSrc": "logo/login.png",
     "description": "This is a project made with Html, CSS, JavaScript.",
@@ -24,7 +32,7 @@
     "source": "https://github.com/khushiDayal/Form-validation"
   },
   {
-    "key": 4,
+    "key": 5,
     "title": "Heart-Trail-Animation",
     "imageSrc": "logo/heart.png",
     "description": "This is a project made with Html, CSS, JavaScript.",
@@ -32,7 +40,7 @@
     "source": "https://github.com/khushiDayal/Heart-Animation"
   },
   {
-    "key": 5,
+    "key": 6,
     "title": "To-Do List",
     "imageSrc": "logo/todo.png",
     "description": "This is a project made with Html, CSS, JavaScript.",
